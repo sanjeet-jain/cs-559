@@ -20,6 +20,8 @@ Proffessor In Suk Jang (great lecturer for cs 559 and cs 590 !)
 - Lecture 11: Combining Models
 - Lecture 12: Deep Learning
 
+- https://www.youtube.com/playlist?list=PLmwdtB03RmSrR3VcAE79eFPJj8BZFBbxJ
+
 ## Reference Textbook
 
 - Bishop, Christopher M., 2006. Pattern Recognition and Machine Learning. Springer-Verlag New York, Inc. A comprehensive reference for the bayesian theory that we will cover.
