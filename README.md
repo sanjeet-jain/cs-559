@@ -30,15 +30,16 @@ Proffessor In Suk Jang (great lecturer for cs 559 and cs 590 !)
 
 ## Assignments
 
-- Assignment 1: Upto Lecture 2 (Score: /100)
-- Assignment 2: Upto Lecture 3 (Score /100)
-- Assignment 3: Upto Lecture 7 (Score: /100)
-- Assignment 4: Upto Lecture 9 (Score: /100)
-- Assignment 5: Upto Lecture 11 (Score: /100)
+- Assignment 1: (Score: 74.5/80)
+- Assignment 2: (Score 100/100)
+- Assignment 3: (Score: 80/80)
+- Assignment 4: (Score: 95/100)
+- Assignment 5: (Score: 70/80)
 
 ## Projects
 
-- Project 1: Topic : (Score: /100)
-- Project 2: Topic : (Score: /100)
+- Project 1 : (Score: 96/100)
+- Project 2 : (Score: 95/100)
+- Final Project (Score: 96.03/100)
 
-**Final Grade:** (Score: **% Grade: **)
+**Final Grade:** (Score: _93.13_% Grade: _A_)
