@@ -20,6 +20,7 @@ Proffessor In Suk Jang (great lecturer for cs 559 and cs 590 !)
 - Lecture 11: Combining Models
 - Lecture 12: Deep Learning
 
+- lecture recordings
 - https://www.youtube.com/playlist?list=PLmwdtB03RmSrR3VcAE79eFPJj8BZFBbxJ
 
 ## Reference Textbook
